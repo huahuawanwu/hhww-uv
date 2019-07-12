@@ -9,3 +9,5 @@ wk-----branch
 wk2--------branch---update
 
 master--update
+
+wk2---update
